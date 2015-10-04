@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/sakapun/motivationup#readme",
   "dependencies": {
-  	"express": "4.*.*"
+  	"express": "4.*.*",
+  	"cheerio-httpcli": "*",
+  	"jade": "*"
   },
 	"engines": {
 	  "node": "0.10.40",
