@@ -18,5 +18,9 @@
   "homepage": "https://github.com/sakapun/motivationup#readme",
   "dependencies": {
   	"express": "4.*.*"
-  }
+  },
+	"engines": {
+	  "node": "0.10.40",
+	  "npm":  "2.14.1"
+	}
 }
