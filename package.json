@@ -1,0 +1,22 @@
+{
+  "name": "motivationup",
+  "version": "1.0.0",
+  "description": "send pinterest image in order to raise the motivation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakapun/motivationup.git"
+  },
+  "author": "sakapun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakapun/motivationup/issues"
+  },
+  "homepage": "https://github.com/sakapun/motivationup#readme",
+  "dependencies": {
+  	"express": "4.*.*"
+  }
+}
